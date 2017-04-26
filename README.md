@@ -8,7 +8,7 @@ A simple parser for reading a YouTube RSS feed.
 
 ## Use
 
-* Usage instructions are coming soon! *
+*Usage instructions are coming soon!*
 
 ## Copyright and license
 
