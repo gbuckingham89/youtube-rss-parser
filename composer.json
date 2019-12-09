@@ -16,9 +16,9 @@
         "source": "https://github.com/gbuckingham89/youtube-rss-parser"
     },
     "require": {
-        "php": ">=5.5.0",
+        "php": "^7.1.8",
         "guzzlehttp/guzzle": "^6.2",
-        "nesbot/carbon": "^1.22"
+        "nesbot/carbon": "^2.0"
     },
     "autoload": {
         "psr-4": {
