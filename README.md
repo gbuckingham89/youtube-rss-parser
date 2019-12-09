@@ -4,7 +4,9 @@ A simple PHP parser for reading a YouTube RSS feed. It provides a object oriente
 
 ## Requirements
 
-Requires PHP 5.5 or greater. Uses *guzzlehttp/guzzle* as a HTTP client and *nesbot/carbon* for handling dates. See `composer.json` for more details.
+Requires PHP 7.1.8 or greater. Uses *guzzlehttp/guzzle* as a HTTP client and *nesbot/carbon* for handling dates. See `composer.json` for more details.
+
+If you require support for an older PHP version (>=5.5), see [release v0.1.0](https://github.com/gbuckingham89/youtube-rss-parser/tree/v0.1.0).
 
 ## Installation
 
